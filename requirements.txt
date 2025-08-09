@@ -1,0 +1,5 @@
+jsonschema>=4.0.0
+rich>=13.0.0
+python-slugify>=8.0.0
+requests>=2.25.0
+jupyter>=1.0.0
